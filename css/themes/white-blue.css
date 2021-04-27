@@ -1,8 +1,9 @@
 /* Theme */
 
 main {
-	background: #FAFAFA;
-	color: #0277BD;
+	background:#cec43d;
+	background: linear-gradient(to right bottom, #0a4575 50%, #243d88 50%);
+	color: #ffffff;
 }
 
 .icons-social a {
